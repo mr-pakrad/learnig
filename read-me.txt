@@ -1,0 +1,4 @@
+inter dirction = cd 
+make folder = mkdir namefolder
+make file = touch name file
+back = cd ..
